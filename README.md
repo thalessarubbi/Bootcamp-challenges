@@ -5,6 +5,18 @@
     <br>
 </h1>
 
+<div align="center">
+    <h4 style="margin-bottom: 0;"> 🏁  Finished.  🏁</h4>
+    <h5 style="margin-top: 0;">(for now)</h5>
+</div>
+
+<p align="center">GoStack is a immersive training in the most modern web and mobile development technologies.
+<br />
+Stack: React | React Native | Node.js</p>
+
+## 📝 Certificate
+---
+<br />
 <h2 align="center">
   <img width="50%" alt="Certificado" src="assets/images/certificado-bootcamp.png" />
 </h2>
