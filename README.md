@@ -17,9 +17,9 @@ Stack: React | React Native | Node.js</p>
 ## 📝 Certificate
 ---
 <br />
-<h2 align="center">
+<p align="center">
   <img width="50%" alt="Certificado" src="assets/images/certificado-bootcamp.png" />
-</h2>
+</p>
 
 ## ✍️ Author
 ---
